@@ -13,7 +13,7 @@ Para que router pueda saber desde donde y hacia donde mandar información, es ne
 
 Cada dirección de IPv4 se compone de cuatro partes llamadas “octetos”. Los primeros tres representan la red a la que pertenece la dirección, mientras que el último, la identificación única correspondiente a cada dispositivo.  
 
-![alt text](/assets/img/Redes/ip.png){: width="500" }
+![alt text](/assets/ip.png){: width="500" }
 
 
 **Datos a tener en cuenta.**

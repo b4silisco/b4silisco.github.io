@@ -45,7 +45,7 @@ Habrá ocasiones en las que agreguemos ficheros que no queramos que sean version
 
 Ahora que ya tenemos a las ficheros para guardar una fotografía de sus cambios podemos hacerlo mediante
 
-**git commit -m "Primer commit"**
+**git commit -m "Primer commit"**  
 Este comando nos permite asignar la fotografía de nuestro repositorio y además nos permite agregar un mensaje que se adjuntará a este commit
 
 ![alt text](/assets/09-git.png){: width="700" }

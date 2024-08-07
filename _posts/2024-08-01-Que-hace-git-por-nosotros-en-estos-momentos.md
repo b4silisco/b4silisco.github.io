@@ -1,5 +1,5 @@
 ---
-title: "Que hace git por noosotros en estos momentos"
+title: "Que hace git por nosotros en estos momentos"
 date: 2024-08-01 09:07:00 +0800
 categories: [Git y GitHub]
 tags: [Git]

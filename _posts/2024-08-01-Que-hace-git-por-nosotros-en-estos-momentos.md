@@ -1,6 +1,6 @@
 ---
 title: "Que hace git por nosotros en estos momentos"
-date: 2024-08-01 09:07:00 +0800
+date: 2024-08-01 09:07:00 
 categories: [Git y GitHub]
 tags: [Git]
 ---

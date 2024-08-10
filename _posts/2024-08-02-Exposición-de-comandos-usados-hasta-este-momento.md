@@ -1,6 +1,6 @@
 ---
 title: "Exposición de comandos usados hasta este momento"
-date: 2024-08-02 11:37:00 +0800
+date: 2024-08-02 11:37:00 
 categories: [Git y GitHub]
 tags: [Git]
 ---

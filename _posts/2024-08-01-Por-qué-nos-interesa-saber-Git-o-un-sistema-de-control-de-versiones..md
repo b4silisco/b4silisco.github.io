@@ -1,6 +1,6 @@
 ---
 title: "Por qué nos interesa saber Git o un sistema de control de versiones"
-date: 2024-08-01 08:50:00 +0800
+date: 2024-08-01 08:50:00 
 categories: [Git y GitHub]
 tags: [Git]
 ---

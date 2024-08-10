@@ -1,6 +1,6 @@
 ---
 title: "Nuestro primer repositorio"
-date: 2024-08-01 09:07:00 
+date: 2024-08-01 09:07:00 +0800
 categories: [Git y GitHub]
 tags: [Git]
 ---

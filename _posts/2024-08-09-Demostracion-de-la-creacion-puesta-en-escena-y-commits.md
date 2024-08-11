@@ -1,6 +1,6 @@
 ---
 title: "Demostración de la creación, puesta en escena y commits"
-date: 2024-08-09 08:50:00 +0800
+date: 2024-08-09 08:50:00 +0600
 categories: [Git y GitHub]
 tags: [Git]
 ---

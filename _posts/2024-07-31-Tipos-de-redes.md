@@ -1,6 +1,6 @@
 ---
 title: "Tipos de redes"
-date: 2024-07-31 20:05:00 +0800
+date: 2024-07-31 20:05:00 -0600
 categories: [Redes]
 tags: [CCNA]
 ---

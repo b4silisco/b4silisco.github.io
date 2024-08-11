@@ -1,0 +1,9 @@
+es:
+  home: "Inicio"
+  categories: "Categorias"
+  tags: "Etiquetas"
+  archives: "Línea de tiempo"
+  about: "Acerca de"
+  recently updated: "Actualizado recientemente"
+  trending tags: "Etiquetas populares"
+  # Agrega más traducciones según las necesidades del tema

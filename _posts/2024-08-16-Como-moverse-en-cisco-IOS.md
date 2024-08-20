@@ -1,0 +1,64 @@
+---
+title: "Cómo moverse en cisco IOS"
+date: 2024-08-16 06:21:00 -0600
+categories: [Redes]
+tags: [CCNA]
+---
+
+Dentro del software de Cisco podemos hacer uso de diversos dispositivos como routers, switches laptops etc.
+
+Ahora bien todos tienen sus diversas configuraciones en este caso mostraremos comandos para los routers:
+
+— **enable:**  este comando nos ayuda a entrar a las opciones con privilegios que posee el dispositivo que estemos configurando.
+
+![alt text](/assets/01-cisco.png){: width="200" }
+
+— **?:** Depende de donde se use este comando, nos muestra las configuraciones o comandos que podemos utilizar en ese menú.
+
+![alt text](/assets/02-cisco.png){: width="600" }
+
+— **config terminal:** nos permite acceder a la configuración global del dispositivo.
+
+![alt text](/assets/03-cisco.png){: width="600" }
+
+— **hostname [ Nombre para el dispositivo ]:** Este comando nos ayuda a poder asignarle un nombre al dispositivo.
+
+![alt text](/assets/04-cisco.png){: width="600" }
+
+Para poder hacer configuraciones dentro de un dispositivo de red (en este caso un Router) podemos hacer uso de tres tipos de conexión, para poder administrar esas conexiones nosotros podemos ingresar a configurarlas, la primera es mediante
+
+— **line vty 0 15:** con este comando indicamos que queremos configurar las líneas que usan las terminales virtuales. Se utilizan para poder configurar un dispositivo de red de manera remota (SSH - Telnet).
+
+Cuando accedemos a ellas tenemos 16 sesiones que nosotros podemos configurar (de 0 a 15, si queremos configurar las primeras 5 sería de **line vty 0 4)**. Una sesión es una conexión que se establece entre una computadora y el dispositivo.
+
+![alt text](/assets/05-cisco.png){: width="600" }
+
+También podemos verificar que comandos podemos usar para realizar configuraciones con el **?**
+
+![alt text](/assets/06-cisco.png){: width="600" }
+
+— **line console 0:** aquí indicamos la configuración de la línea de consola cuando nosotros nos conectamos de manera directa con cable de una laptop al dispositivo. Aquí solo tenemos una sesión disponible por que solo podemos conectar un cable a la vez.
+
+![alt text](/assets/07-cisco.png){: width="600" }
+
+Cuando nosotros queramos configurar algunos de los puertos que tenemos en el dispositivo tenedremos que especificar mediante el número del puerto
+
+— **interface g0/0/0**: Permite configurar los puertos de un dispositivo, en este caso se configurara el puerto gigabite 0/0/0.
+
+![alt text](/assets/08-cisco.png){: width="600" }
+
+— **ip address 192.168.0.1 255.255.255.0:** nos permite asignar una dirección de ip a el dispositivo, en este ejemplo configuramos la interfaz gigabyte 0/0/0
+
+![alt text](/assets/09-cisco.png){: width="600" }
+
+![alt text](/assets/10-cisco.png){: width="600" }
+
+Como se puede observar ya ha sido asignada la ip a la interfaz del Router
+
+— **end**: nos permite regresar a la raíz de la configuración privilegiada del dispositivo.
+
+![alt text](/assets/11-cisco.png){: width="600" }
+
+
+
+

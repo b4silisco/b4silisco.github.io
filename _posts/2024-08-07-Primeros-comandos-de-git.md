@@ -1,6 +1,6 @@
 ---
 title: "Primeros comandos de git"
-date: 2024-08-01 08:54:00 -0600
+date: 2024-08-07 08:54:00 -0600
 categories: [Git y GitHub]
 tags: [Git]
 ---

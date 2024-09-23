@@ -1,6 +1,6 @@
 ---
 title: "Cómo moverse en cisco IOS"
-date: 2024-08-16 06:21:00 -0600
+date: 2024-08-21 06:21:00 -0600
 categories: [Redes]
 tags: [CCNA]
 ---

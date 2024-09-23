@@ -1,6 +1,6 @@
 ---
 title: "Cambiar el nombre de la rama master a main"
-date: 2024-08-05 09:20:00 -0600
+date: 2024-08-14 09:20:00 -0600
 categories: [Git y GitHub]
 tags: [Git]
 ---

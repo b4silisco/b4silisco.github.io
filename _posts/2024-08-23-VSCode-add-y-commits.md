@@ -1,6 +1,6 @@
 ---
 title: "VSCode add y commits"
-date: 2024-08-19 11:37:00 -0600
+date: 2024-08-23 11:37:00 -0600
 categories: [Git y GitHub]
 tags: [Git]
 ---

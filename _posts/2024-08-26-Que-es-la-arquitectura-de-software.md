@@ -1,6 +1,6 @@
 ---
 title: "¿Qué es la arquitectura de software?"
-date: 2024-08-23 06:07:00 -0600
+date: 2024-08-26 06:07:00 -0600
 categories: [Desarrollo de software]
 tags: [Arquitectura de software]
 ---

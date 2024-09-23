@@ -1,6 +1,6 @@
 ---
 title: "Introducción a cisco IOS"
-date: 2024-08-12 06:07:00 -0600
+date: 2024-08-19 06:07:00 -0600
 categories: [Redes]
 tags: [CCNA]
 ---

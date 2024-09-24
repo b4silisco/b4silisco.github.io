@@ -7,18 +7,16 @@ tags: [Git]
 
 **git init**
 
-Este comando nos crea una carpeta .git la cual contiene las referencias a todo lo que se tiene en el repositorio y sus futuras modificaciones.
+Este comando nos crea una carpeta .git, la cual contiene las referencias a todo lo que se tiene en el repositorio y sus futuras modificaciones.
 
 **git add index.html**
 
-En este comando git recibe la orden de agregar el fichero o archivo al stage de git para que se empiece a tomar los cambios que pueden surgir por git.
+En este comando, Git recibe la orden de agregar el fichero o archivo al stage, para que se empiecen a tomar en cuenta los cambios que puedan surgir.
 
 **git commit**
 
-Crea un registro histórico de los cambios que sucedieron con los ficheros en el proyecto.
+Crea un registro histórico de los cambios que ocurrieron en los ficheros del proyecto.
 
 **git status**
 
-Nos muestra los ficheros que sufrieron modificaciones y aún no se ha hecho commit sobre sus modificaciones así como añadirlos al stage.
-Nos identifica, que se modifico, en que ramas y que archivos están listos para guardar su histórico
-
+Nos muestra los ficheros que sufrieron modificaciones y aún no se ha hecho commit sobre sus cambios, además de permitir añadirlos al stage. Nos identifica qué se modificó, en qué ramas y qué archivos están listos para guardar su histórico.

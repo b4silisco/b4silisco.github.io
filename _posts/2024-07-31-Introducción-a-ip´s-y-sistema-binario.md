@@ -7,21 +7,23 @@ tags: [CCNA]
 
 ## Direcciones ip
 
-Para que router pueda saber desde donde y hacia donde mandar información, es necesario identificar cada dispositivo de forma única para poder diferenciarlos. Es acá donde entran las direcciones IP.
+Para que un router pueda determinar desde dónde y hacia dónde enviar la información, es necesario identificar de forma única a cada dispositivo en la red. Es aquí donde entran en juego las direcciones IP, que permiten diferenciar los dispositivos entre sí.
 
 ## Octetos en IPv4 
 
-Cada dirección de IPv4 se compone de cuatro partes llamadas “octetos”. Los primeros tres representan la red a la que pertenece la dirección, mientras que el último, la identificación única correspondiente a cada dispositivo.  
+Una dirección IPv4 se compone de cuatro partes llamadas octetos. Cada octeto representa un valor entre 0 y 255. Los tres primeros octetos indican la red a la que pertenece la dirección, mientras que el último octeto identifica de manera única a cada dispositivo dentro de esa red.
 
 ![alt text](/assets/ip.png){: width="500" }
 
 
 **Datos a tener en cuenta.**
 
-* Existen dos tipos de ip´s, públicas y privadas.
-* Hay dos versiones de direcciones ip, (IPv4, las que usamos hoy en día), e IPv6 (la versión creada para reemplazar a IPv4).
-* Un byte puede tener un valor entre 0 y 255, es decir, entre 00000000 y 11111111.
-* Octetos y sistema binario.
-* Cada octeto se compone de un byte, o visto de otra forma, de 8 bits (de ahí el nombre de “octeto”), y cada uno de los bits tiene un valor asignado:
+* Tipos de direcciones IP: Existen dos tipos principales: públicas y privadas. Las direcciones públicas son visibles en Internet, mientras que las privadas se utilizan dentro de redes locales.
+
+* Versiones de IP: Actualmente, usamos dos versiones de direcciones IP: IPv4 (la más común hoy en día) y IPv6 (creada para reemplazar a IPv4 debido a la escasez de direcciones).
+
+* Rango de un byte: Un byte puede representar un valor entre 0 y 255, lo que en binario equivale a valores entre 00000000 y 11111111.
+
+* Octetos y sistema binario: Cada dirección IPv4 está compuesta por octetos, que son bloques de 8 bits. Cada bit tiene un valor específico asignado, lo que permite representar números en formato binario
 
 ![alt text](/assets/octetos.png){: width="700" }
